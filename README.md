@@ -77,3 +77,21 @@ Whether you’re running outreach campaigns, lead nurturing flows, or appointmen
 <div align="left">
 
 ## Features List:
+| Feature                   | Description                                                               |
+| ------------------------- | ------------------------------------------------------------------------- |
+| Real Phone SMS Sending    | Sends texts directly from Android devices with SIM cards, not cloud APIs. |
+| Contact List Import       | Supports CSV and JSON formats to manage bulk recipient lists.             |
+| Scheduled Campaigns       | Allows scheduling of messages across multiple devices.                    |
+| AI Flow Integration       | Hooks into backend AI systems (e.g., GPT) to respond intelligently.       |
+| Dual SIM Management       | Supports handling messages from multiple SIM slots per phone.             |
+| Message Logging           | Logs delivery status, responses, and phone usage in real-time.            |
+| Failover & Retry Logic    | Retries failed messages and rotates SIMs if necessary.                    |
+| Android App Control Layer | Controlled via Appium or Appilot for full message control.                |
+
+
+## Key Stats:
+- **Automation Accuracy:** 98%
+- **Session Stability:** 24/7 Uptime on Rooted Android Devices
+- **Concurrent Account Management**: Supports up to 200 phones in parallel
+- **Human Detection Rate (SMS context)**: SIM-originated SMSes treated as 99.5% authentic by carriers
+
