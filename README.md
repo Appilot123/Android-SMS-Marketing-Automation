@@ -95,3 +95,8 @@ Whether you’re running outreach campaigns, lead nurturing flows, or appointmen
 - **Concurrent Account Management**: Supports up to 200 phones in parallel
 - **Human Detection Rate (SMS context)**: SIM-originated SMSes treated as 99.5% authentic by carriers
 
+## Built With:
+- **Language Stack:** Python, JavaScript (Node.js backend), optional Flask/FastAPI
+- **Device Layer:** Real Android phones with SIMs, optionally via USB hubs or wireless setups
+- **AI Compatibility:** Plug-n-play GPT-4/Claude integration for reply flows
+- **Platform Focus:** Telecom-level stealth delivery, high-volume lead engagement
